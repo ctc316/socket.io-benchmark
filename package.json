@@ -3,7 +3,6 @@
   , "description": "benchmark for socket.io"
   , "version": "0.0.1"
   , "private": true
-  , "author": "ctc316"
   , "dependencies": {
      "socket.io": "latest",
      "socket.io-client": "latest"  
