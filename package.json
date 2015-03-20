@@ -1,14 +1,11 @@
 {
     "name": "socket.io-benchmark"
+  , "description": "benchmark for socket.io"
   , "version": "0.0.1"
   , "private": true
+  , "author": "ctc316"
   , "dependencies": {
-      "v8-profiler": "latest"
-    , "socket.io": "latest"
-    , "socket.io-client": "latest"  
+     "socket.io": "latest",
+     "socket.io-client": "latest"  
   }
-  , "devDependencies": {
-  }
-  , "engine": "node >= 0.4.11"
-  
 }
